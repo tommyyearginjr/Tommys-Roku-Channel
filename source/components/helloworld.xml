@@ -2,7 +2,7 @@
 <component name="HelloWorld" extends="Scene"> 
 	<children>
       <Label id="myLabel" 
-      	text="Tommy H. Yeargin, Jr.'s Channel"
+      	text="Tommy's Channel"
       	width="1280" 
       	height="720" 
       	horizAlign="center"

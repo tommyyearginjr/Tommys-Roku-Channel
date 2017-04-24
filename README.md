@@ -1,2 +1,3 @@
-# hello-world
-A basic sample channel application for Roku
+# My Roku Channel
+
+Currently: https://my.roku.com/add/RVL2VXR
